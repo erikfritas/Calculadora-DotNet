@@ -1,4 +1,4 @@
 # Calculadora-DotNet
-Calculadora feita em dotnet
+Calculadora feita por mim em dotnet
 
 <img src="printDaCalculadora.png" alt="print da calculadora"/>
