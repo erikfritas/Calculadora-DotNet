@@ -44,7 +44,7 @@ namespace Calculator{
                 Console.Write("\nDeseja continuar? (S/N) ");
                 if (Console.ReadLine()?.ToUpper() == "N") {
                     Console.WriteLine("\nResultado final:\n {"+historico+"\n}");
-                    Console.WriteLine("\n\nCriado por Érik Freitas");
+                    Console.WriteLine("\n\nCriado por Érik Freitas (erikfritas)");
                     break;
                 } else {
                     Console.Clear();
